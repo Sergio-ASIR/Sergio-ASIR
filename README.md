@@ -1,91 +1,70 @@
-# Sergio Sandoval
+# Sergio Sandoval Domínguez
 
-## Administración de Sistemas Informáticos en Red (ASIR)
+Soy estudiante de Administración de Sistemas Informáticos en Red (ASIR), con especial interés en ciberseguridad, administración de sistemas Linux y Windows, redes y automatización.
 
-### Sobre mí
-
-Actualmente curso el Ciclo Formativo de Grado Superior en Administración de Sistemas Informáticos en Red (ASIR) en la Universidad Europea de Madrid, compaginando mi formación académica con experiencia profesional en entornos corporativos.
-
-Mi objetivo es desarrollar una carrera profesional orientada a la administración de sistemas, Linux, redes, automatización, desarrollo y ciberseguridad. A través de este perfil documento los proyectos y laboratorios que mejor representan mi evolución técnica y mi forma de trabajar.
-
----
+Durante mi formación he trabajado con diferentes tecnologías y entornos de infraestructura, desarrollando una base orientada a sistemas y seguridad.
 
 ## Áreas de interés
 
-* Administración de sistemas
-* Linux
-* Redes e infraestructura
-* Automatización
-* Ciberseguridad
-* Bases de datos
+- Ciberseguridad
+- Linux y administración de sistemas
+- Windows Server y Active Directory
+- Redes e infraestructura
+- Automatización y programación
+- Inteligencia Artificial aplicada
 
----
+## Proyectos
 
-## Tecnologías y herramientas
+### Linux
 
-### Sistemas
+Prácticas de administración de sistemas Linux, incluyendo almacenamiento, RAID, usuarios, grupos y recuperación de sistemas.
 
-* Windows Server
-* Active Directory
-* Linux
+[Ver proyectos de Linux](https://github.com/Sergio-ASIR/linux-labs)
+
+### Windows Server
+
+Prácticas de administración de Windows Server con Active Directory, usuarios y grupos, permisos, GPO, almacenamiento y RAID.
+
+[Ver proyectos de Windows Server](https://github.com/Sergio-ASIR/infraestructura-windows-server)
 
 ### Redes
 
-* TCP/IP
-* Subnetting
-* Diseño de redes LAN/WAN
+Proyectos de diseño y planificación de redes empresariales, trabajando con direccionamiento IP, subnetting, LAN, WAN, VPN y arquitectura de red.
 
-### Bases de datos
+[Ver proyectos de redes](https://github.com/Sergio-ASIR/diseno-redes-empresariales)
 
-* MySQL
-* SQL
-* Modelado relacional
+### Desarrollo y automatización
 
-### Desarrollo
+Proyectos de programación en C# y desarrollo web con HTML5, CSS, JavaScript y Bootstrap.
 
-* HTML
-* CSS
-* JavaScript
-* C#
+[Ver proyectos de desarrollo](https://github.com/Sergio-ASIR/desarrollo-y-automatizacion)
 
----
+## Formación
 
-## Proyectos del portfolio
+**Grado Superior en Administración de Sistemas Informáticos en Red (ASIR)**  
+Universidad Europea de Madrid · 2025 - Actualidad
 
-Actualmente estoy organizando y documentando los proyectos desarrollados durante mi formación en ASIR para convertirlos en un portfolio técnico estructurado.
+**Certificado Universitario en Ciberseguridad, IA y Big Data**
 
-Los principales repositorios que formarán parte de este portfolio son:
+## Tecnologías
 
-* infraestructura-windows-server
-* linux-labs
-* diseno-redes-empresariales
-* bases-de-datos-sql
-* proyectos-web
+- Linux / Ubuntu Server
+- Windows Server
+- Active Directory
+- TCP/IP
+- IPv4 y subnetting
+- RAID
+- GPO
+- NTFS
+- C#
+- HTML5
+- CSS
+- JavaScript
+- Bootstrap
+- SQL
+- VirtualBox
+- Git / GitHub
 
----
+## Sobre mí
 
-## Formación y experiencia
-
-### Formación
-
-* Administración de Sistemas Informáticos en Red (ASIR)
-* Universidad Europea de Madrid
-
-### Experiencia profesional
-
-* VEOLIA
-* CLECE
-* Meta4
-
----
-
-## Objetivos actuales
-
-Actualmente continúo ampliando conocimientos en:
-
-* Linux
-* Redes
-* Automatización
-* Ciberseguridad
-
-Este portfolio seguirá creciendo durante mi formación mediante nuevos laboratorios, proyectos y documentación técnica.
+Actualmente estoy ampliando mi formación en sistemas y ciberseguridad, con el objetivo de desarrollar experiencia profesional en entornos donde pueda aplicar mis conocimientos y seguir creciendo técnicamente.
